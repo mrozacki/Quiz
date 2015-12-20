@@ -1,0 +1,33 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background-color: #333;
+}
+.navbar .btn-primary {
+  margin-top:8px;
+}
+
+.main {
+  background: url(http://cache3.asset-cache.net/gc/172290144-question-symbol-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=0p3sHkzuhg8RJC7qBhpU8c2MznZEoZ7nCjwDzYaUHiWSFU7IMlC3qYgSgFFfyUQ2) ;
+  background-size: cover;
+}
+
+.container {
+  max-width: 1200px;
+}
+
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+
+div {
+  max-width: 1200px;
+  margin:auto;
+}
+
+.columns {
+  color: white;
+
+}
